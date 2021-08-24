@@ -1,4 +1,4 @@
-const I18n = require("i18n")
+const {I18n} = require("i18n")
 const path = require("path");
 
 module.exports = dirname => {
