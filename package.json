@@ -1,6 +1,6 @@
 {
   "name": "utils-library",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
+    "i18n": "^0.13.3",
     "nodemailer": "^6.6.3",
-    "nodemailer-express-handlebars": "^4.0.0"
+    "nodemailer-express-handlebars": "^4.0.0",
+    "rotating-file-stream": "^2.1.5"
   }
 }

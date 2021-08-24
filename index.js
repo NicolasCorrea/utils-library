@@ -4,4 +4,5 @@ module.exports = {
   crypto: require("./crypto"),
   httpResponse: require("./httpResponses"),
   mailer: require("./mailer"),
+  middlewares: require("./middlewares")
 };
